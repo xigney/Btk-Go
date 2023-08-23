@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryid": 1,
+      "unitPrice": 5000.99
+    },
+    {
+      "id": 2,
+      "productName": "Mouse",
+      "categoryid": 1,
+      "unitPrice": 50.99
+    },
+    {
+      "id": 3,
+      "productName": "Water",
+      "categoryid": 2,
+      "unitPrice": 0.99
+    },
+    {
+      "id": 4,
+      "productName": "Kulakluk",
+      "categoryid": 1,
+      "unitPrice": 2572.89
+    },
+    {
+      "id": 5,
+      "productName": "Telefon",
+      "categoryid": 1,
+      "unitPrice": 20572.89
+    },
+    {
+      "id": 6,
+      "productName": "Klavye",
+      "categoryid": 1,
+      "unitPrice": 272.89
+    },
+    {
+      "id": 7,
+      "productName": "Kamera",
+      "categoryid": 1,
+      "unitPrice": 72.89
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryname": "Computers"
+    },
+    {
+      "id": 2,
+      "categoryname": "Beveragers"
+    }
+  ]
+}
